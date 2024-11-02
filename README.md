@@ -30,11 +30,14 @@ Advanced Voice Options: Integration with more sophisticated TTS engines for a wi
 User Accounts: Adding user authentication and account management to save preferences across sessions.
 Real-time Text-to-Speech: Allowing users to hear the speech in real-time as they type.
 Mobile Compatibility: Developing a mobile-friendly version or a dedicated mobile application for on-the-go usage.
+
 7. Deployment
 The application can be deployed on cloud platforms like Heroku, AWS, or Google Cloud for broader access.
 Consider using a production-grade WSGI server (e.g., Gunicorn) for improved performance and reliability in a production environment.
 Conclusion :
 This Text-to-Speech Conversion Application serves as a valuable tool for users who seek to convert text to spoken audio easily and effectively. Its combination of language support, customization options, and user-friendly design makes it accessible to a wide audience. As technology and user needs evolve, the application can be expanded with additional features and integrations, positioning it as a leading solution in the TTS domain.
+![Screenshot (2)](https://github.com/user-attachments/assets/6cc4aa84-14bc-4e5c-9fa9-ea5f337e3a94)
+
 
 
 
